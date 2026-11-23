@@ -1,7 +1,8 @@
 // October 2026 Current Affairs (Akshay Cholke / Saarthi Education) - question bank
-// Total: 1103 questions
+// Total: 1214 questions
 //   - 149 original MCQs taken from the PDF ("Top 150 MCQs"; the PDF skips No. 47)
 //   - 954 new questions generated from the magazine's content
+//   - 111 questions from the September 2026 workbook
 // Fields: id, question, options[5 for PDF / 5 generated], answer (index of correct option, 0 = a), category, source
 const questions = [
  {
@@ -15594,5 +15595,1670 @@ const questions = [
   "category": "Important Days",
   "source": "generated",
   "id": 1103
- }
+ },
+{
+    "question":  "Where was the 18th BRICS Summit held in September 2026?",
+    "options":  [
+                    "Bharat Mandapam, New Delhi",
+                    "Yekaterinburg, Russia",
+                    "Bishkek, Kyrgyzstan",
+                    "Shanghai, China",
+                    "Busan, South Korea"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine places the 18th Summit at Bharat Mandapam, New Delhi, on 12–13 September 2026.",
+    "id":  1104
+},
+{
+    "question":  "Who coined the term “BRIC” in 2001?",
+    "options":  [
+                    "Jim O’Neill",
+                    "K. V. Kamath",
+                    "Sadyr Japarov",
+                    "António Guterres",
+                    "Narendra Modi"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The term was coined by Goldman Sachs economist Jim O’Neill.",
+    "id":  1105
+},
+{
+    "question":  "Which country became a full BRICS member on 6 January 2025?",
+    "options":  [
+                    "Vietnam",
+                    "Indonesia",
+                    "Malaysia",
+                    "Thailand",
+                    "Nigeria"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF says Indonesia’s full membership was formalised on 6 January 2025.",
+    "id":  1106
+},
+{
+    "question":  "According to the magazine, how many BRICS full members and partner countries are listed?",
+    "options":  [
+                    "10 and 11",
+                    "11 and 10",
+                    "12 and 9",
+                    "10 and 10",
+                    "9 and 12"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists 11 full members and 10 partner countries, making a 21-country family.",
+    "id":  1107
+},
+{
+    "question":  "Which of the following is listed as a BRICS partner country?",
+    "options":  [
+                    "Indonesia",
+                    "Brazil",
+                    "Vietnam",
+                    "China",
+                    "South Africa"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Vietnam is listed as the 10th BRICS partner country.",
+    "id":  1108
+},
+{
+    "question":  "What is the theme of India’s 2026 BRICS chairship?",
+    "options":  [
+                    "One Earth, One Family, One Future",
+                    "Building for Resilience, Innovation, Cooperation and Sustainability",
+                    "A Shared Future for Humanity",
+                    "Global South for Global Good",
+                    "Partnership for Peace and Prosperity"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives the theme as “Building for Resilience, Innovation, Cooperation and Sustainability”.",
+    "id":  1109
+},
+{
+    "question":  "What does RICS stand for in India’s BRICS priorities?",
+    "options":  [
+                    "Research, Inclusion, Climate, Security",
+                    "Resilience, Innovation, Cooperation, Sustainability",
+                    "Reform, Investment, Commerce, Science",
+                    "Regional Integration, Connectivity, Security",
+                    "Resilience, Infrastructure, Capital, Strategy"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "RICS is the short form of the four priorities in the chairship theme.",
+    "id":  1110
+},
+{
+    "question":  "Which statement about BRICS is correct according to the PDF?",
+    "options":  [
+                    "It has a permanent secretariat in New Delhi",
+                    "It has no permanent headquarters or secretariat",
+                    "Its headquarters is in Shanghai",
+                    "Its presidency is fixed for five years",
+                    "It is a UN specialised agency"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine explicitly says BRICS itself has no permanent headquarters or permanent secretariat.",
+    "id":  1111
+},
+{
+    "question":  "Where is the New Development Bank headquartered?",
+    "options":  [
+                    "New Delhi",
+                    "Fortaleza",
+                    "Shanghai",
+                    "Moscow",
+                    "Johannesburg"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The NDB headquarters is in Shanghai, China.",
+    "id":  1112
+},
+{
+    "question":  "Who was the first President of the New Development Bank?",
+    "options":  [
+                    "Urjit Patel",
+                    "K. V. Kamath",
+                    "Raghuram Rajan",
+                    "Shaktikanta Das",
+                    "Ajay Banga"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine identifies K. V. Kamath of India as the first NDB President.",
+    "id":  1113
+},
+{
+    "question":  "Which four Indian heritage properties were added to UNESCO’s Tentative List in September 2026?",
+    "options":  [
+                    "Shekhawati, Andaman Penal Settlement, Nicobarese Cultural Continuity, Rangpur-Sivasagar",
+                    "Ajanta, Ellora, Taj Mahal, Agra Fort",
+                    "Hampi, Konark, Sanchi, Nalanda",
+                    "Kaziranga, Manas, Sundarbans, Nanda Devi",
+                    "Dholavira, Rani-ki-Vav, Champaner, Jaipur"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "These are the four properties named in the PDF.",
+    "id":  1114
+},
+{
+    "question":  "How many sites did India have on UNESCO’s World Heritage Tentative List as of 5 September 2026?",
+    "options":  [
+                    "45",
+                    "53",
+                    "62",
+                    "73",
+                    "81"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine gives a total of 73: 53 cultural, 17 natural and 3 mixed.",
+    "id":  1115
+},
+{
+    "question":  "How many UNESCO World Heritage properties did India have according to the magazine?",
+    "options":  [
+                    "37",
+                    "42",
+                    "45",
+                    "53",
+                    "73"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "India’s total is given as 45: 37 cultural, 7 natural and 1 mixed.",
+    "id":  1116
+},
+{
+    "question":  "Where was the 48th session of the UNESCO World Heritage Committee held?",
+    "options":  [
+                    "Paris",
+                    "Busan",
+                    "New Delhi",
+                    "Rome",
+                    "Geneva"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The session was held in Busan, Republic of Korea, from 19–29 July 2026.",
+    "id":  1117
+},
+{
+    "question":  "How many new World Heritage Sites were inscribed in July 2026, according to the PDF?",
+    "options":  [
+                    "15",
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists 25 new inscriptions: 19 cultural, 5 natural and 1 mixed.",
+    "id":  1118
+},
+{
+    "question":  "Which country ranked first in the magazine’s list of countries with the most UNESCO World Heritage Sites?",
+    "options":  [
+                    "China",
+                    "France",
+                    "Italy",
+                    "Germany",
+                    "Spain"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Italy is listed first with 62 sites, followed by China with 61.",
+    "id":  1119
+},
+{
+    "question":  "Who was appointed Lieutenant Governor of the Andaman and Nicobar Islands?",
+    "options":  [
+                    "Vinai Kumar Saxena",
+                    "Dr. Dinesh Sharma",
+                    "Admiral D. K. Joshi",
+                    "Sadyr Japarov",
+                    "Yuko Keicho"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF reports Dr. Dinesh Sharma’s appointment, announced on 5 September 2026.",
+    "id":  1120
+},
+{
+    "question":  "What is the official renamed name of Port Blair mentioned in the PDF?",
+    "options":  [
+                    "Sri Vijaya Puram",
+                    "Netaji Nagar",
+                    "Azad Dweep",
+                    "Veer Savarkar Port",
+                    "Swaraj Port"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine says Port Blair was officially renamed Sri Vijaya Puram.",
+    "id":  1121
+},
+{
+    "question":  "Which city hosted the 26th SCO Summit?",
+    "options":  [
+                    "New Delhi",
+                    "Tashkent",
+                    "Bishkek",
+                    "Astana",
+                    "Dushanbe"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The 26th SCO Summit was held in Bishkek, Kyrgyzstan.",
+    "id":  1122
+},
+{
+    "question":  "Who chaired the 26th SCO Summit according to the magazine?",
+    "options":  [
+                    "Xi Jinping",
+                    "Sadyr Japarov",
+                    "Vladimir Putin",
+                    "Narendra Modi",
+                    "Shehbaz Sharif"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF identifies Kyrgyz President Sadyr Japarov as the chair.",
+    "id":  1123
+},
+{
+    "question":  "Which country became the 71st country to join the Artemis Accords?",
+    "options":  [
+                    "Djibouti",
+                    "Turkey",
+                    "India",
+                    "Brazil",
+                    "South Korea"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Turkey is identified as the 71st signatory; the PDF separately notes Djibouti as the 72nd.",
+    "id":  1124
+},
+{
+    "question":  "How many nations joined the global 6G initiative alongside India, according to the PDF?",
+    "options":  [
+                    "10",
+                    "15",
+                    "20",
+                    "25",
+                    "30"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine headline says India joined the initiative with 25 nations.",
+    "id":  1125
+},
+{
+    "question":  "Where was the 9th Rashtriya Poshan Maah 2026 launched?",
+    "options":  [
+                    "Varanasi",
+                    "Bhopal",
+                    "Jaipur",
+                    "Lucknow",
+                    "New Delhi"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The launch took place at Varanasi on 9 September 2026.",
+    "id":  1126
+},
+{
+    "question":  "Which country hosted the 55th Pacific Islands Forum Leaders’ Meeting?",
+    "options":  [
+                    "Fiji",
+                    "Palau",
+                    "Samoa",
+                    "Tonga",
+                    "Vanuatu"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The meeting was held in Palau.",
+    "id":  1127
+},
+{
+    "question":  "Which national park recorded 165 butterfly species, including 37 endangered species?",
+    "options":  [
+                    "Kaziranga",
+                    "Dehing Patkai",
+                    "Manas",
+                    "Nameri",
+                    "Dibru-Saikhowa"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The record was reported from Dehing Patkai National Park in Assam.",
+    "id":  1128
+},
+{
+    "question":  "Where will Andhra Pradesh’s dedicated Quantum and Artificial Intelligence University campus be established?",
+    "options":  [
+                    "Visakhapatnam",
+                    "Amaravati",
+                    "Tirupati",
+                    "Vijayawada",
+                    "Kurnool"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF says the campus is planned for Amaravati.",
+    "id":  1129
+},
+{
+    "question":  "Which state is to establish the first ozone-based drinking-water treatment project mentioned in the magazine?",
+    "options":  [
+                    "Assam",
+                    "Himachal Pradesh",
+                    "Uttarakhand",
+                    "Gujarat",
+                    "Odisha"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The project is reported for Himachal Pradesh.",
+    "id":  1130
+},
+{
+    "question":  "What was the focus of the 5th edition of Swachh Sagar, Surakshit Sagar?",
+    "options":  [
+                    "Desert conservation",
+                    "Ocean conservation and coastal cleanliness",
+                    "Forest fire prevention",
+                    "River interlinking",
+                    "Air pollution control"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The campaign focused on ocean conservation and was linked with International Coastal Cleanup Day. Banking, RBI, Economy \u0026 Finance",
+    "id":  1131
+},
+{
+    "question":  "What MDR did NPCI notify for eligible UPI person-to-merchant transactions above ■2,000?",
+    "options":  [
+                    "0.02%",
+                    "0.2%",
+                    "0.4%",
+                    "0.5%",
+                    "1%"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists 0.4% MDR for eligible UPI P2M transactions above ■2,000.",
+    "id":  1132
+},
+{
+    "question":  "From which date was the UPI MDR framework stated to become effective?",
+    "options":  [
+                    "1 September 2026",
+                    "15 September 2026",
+                    "1 October 2026",
+                    "15 October 2026",
+                    "1 January 2027"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF’s revision notes give 15 October 2026 as the effective date.",
+    "id":  1133
+},
+{
+    "question":  "What is the maximum MDR cap per transaction for the specified UPI category?",
+    "options":  [
+                    "■100",
+                    "■200",
+                    "■300",
+                    "■500",
+                    "■750"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists a cap of ■300 per transaction.",
+    "id":  1134
+},
+{
+    "question":  "What is the special MDR for the essential-sector category mentioned in the PDF?",
+    "options":  [
+                    "■1",
+                    "■2",
+                    "■5",
+                    "■10",
+                    "0.4%"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The revision notes state “Essential Sector MDR – ■5 only”.",
+    "id":  1135
+},
+{
+    "question":  "Which organisation released India’s Q1FY27 GDP estimates?",
+    "options":  [
+                    "RBI",
+                    "NITI Aayog",
+                    "National Statistical Office",
+                    "SEBI",
+                    "Finance Commission"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The NSO released the estimates.",
+    "id":  1136
+},
+{
+    "question":  "What GDP growth rate did India record in Q1FY27 according to the magazine?",
+    "options":  [
+                    "6.1%",
+                    "6.8%",
+                    "7.2%",
+                    "7.8%",
+                    "8.4%"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF reports 7.8% growth for Q1FY27.",
+    "id":  1137
+},
+{
+    "question":  "Which Local Area Bank received scheduled bank status from RBI?",
+    "options":  [
+                    "Krishna Bhima Samruddhi Local Area Bank",
+                    "Coastal Local Area Bank",
+                    "Suryoday Small Finance Bank",
+                    "Ujjivan Small Finance Bank",
+                    "Capital Small Finance Bank"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "RBI granted scheduled bank status to Coastal Local Area Bank of Andhra Pradesh.",
+    "id":  1138
+},
+{
+    "question":  "How many Local Area Banks are listed in the magazine as operating in India?",
+    "options":  [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists Coastal Local Area Bank and Krishna Bhima Samruddhi Local Area Bank.",
+    "id":  1139
+},
+{
+    "question":  "What is the PIN-less transaction limit for UPI Tap \u0026 Pay mentioned in the magazine?",
+    "options":  [
+                    "■500",
+                    "■1,000",
+                    "■2,000",
+                    "■5,000",
+                    "■10,000"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives a PIN-less limit of up to ■5,000.",
+    "id":  1140
+},
+{
+    "question":  "What is the purpose of the Safety Switch feature in MyUPI?",
+    "options":  [
+                    "Increase credit limit",
+                    "Block debit transactions",
+                    "Open a bank account",
+                    "Convert UPI to cash",
+                    "Generate a credit score"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The Safety Switch is described as a feature for blocking debit transactions.",
+    "id":  1141
+},
+{
+    "question":  "To what level did RBI approve LIC to raise its stake in ICICI Bank?",
+    "options":  [
+                    "5.00%",
+                    "7.50%",
+                    "9.99%",
+                    "12.00%",
+                    "15.00%"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine reports RBI approval for LIC to raise its stake to 9.99%.",
+    "id":  1142
+},
+{
+    "question":  "Which Bill amended the MSMED Act, 2006?",
+    "options":  [
+                    "Bankers’ Books Evidence Bill, 2026",
+                    "MSME Development (Amendment) Bill, 2026",
+                    "Companies Amendment Bill, 2026",
+                    "Digital India Bill, 2026",
+                    "Competition Amendment Bill, 2026"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The MSME Development (Amendment) Bill, 2026 amended the MSMED framework.",
+    "id":  1143
+},
+{
+    "question":  "What are the revised investment and turnover limits for a micro enterprise in the PDF?",
+    "options":  [
+                    "■1 crore and ■5 crore",
+                    "■2.5 crore and ■10 crore",
+                    "■5 crore and ■25 crore",
+                    "■25 crore and ■100 crore",
+                    "■125 crore and ■500 crore"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine’s revision summary lists micro enterprises at ■2.5 crore investment and ■10 crore turnover.",
+    "id":  1144
+},
+{
+    "question":  "What are the revised investment and turnover limits for a small enterprise in the PDF?",
+    "options":  [
+                    "■2.5 crore and ■10 crore",
+                    "■10 crore and ■50 crore",
+                    "■25 crore and ■100 crore",
+                    "■50 crore and ■250 crore",
+                    "■125 crore and ■500 crore"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists ■25 crore investment and ■100 crore turnover for small enterprises.",
+    "id":  1145
+},
+{
+    "question":  "What are the revised investment and turnover limits for a medium enterprise in the PDF?",
+    "options":  [
+                    "■25 crore and ■100 crore",
+                    "■50 crore and ■200 crore",
+                    "■100 crore and ■400 crore",
+                    "■125 crore and ■500 crore",
+                    "■250 crore and ■1,000 crore"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists ■125 crore investment and ■500 crore turnover for medium enterprises.",
+    "id":  1146
+},
+{
+    "question":  "Which Act was replaced by the Bankers’ Books Evidence Bill, 2026?",
+    "options":  [
+                    "RBI Act, 1934",
+                    "Banking Regulation Act, 1949",
+                    "Bankers’ Books Evidence Act, 1891",
+                    "Negotiable Instruments Act, 1881",
+                    "Payment and Settlement Systems Act, 2007"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The Bill replaces the Bankers’ Books Evidence Act, 1891 and recognises modern digital records.",
+    "id":  1147
+},
+{
+    "question":  "What base year was adopted in National Accounts Statistics 2026?",
+    "options":  [
+                    "2011–12",
+                    "2015–16",
+                    "2018–19",
+                    "2020–21",
+                    "2022–23"
+                ],
+    "answer":  4,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF states that the GDP base year was revised from 2011–12 to 2022–23.",
+    "id":  1148
+},
+{
+    "question":  "Which two regulators are associated with Demat 2.0 in the magazine?",
+    "options":  [
+                    "RBI and IRDAI",
+                    "RBI and SEBI",
+                    "SEBI and PFRDA",
+                    "NPCI and RBI",
+                    "UIDAI and SEBI"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The initiative is titled “RBI + SEBI Launch Demat 2.0”.",
+    "id":  1149
+},
+{
+    "question":  "What is the central purpose of Demat 2.0?",
+    "options":  [
+                    "Cryptocurrency mining",
+                    "Tokenised corporate bonds",
+                    "Cashless toll collection",
+                    "Digital currency issuance",
+                    "Insurance claim settlement"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF describes Demat 2.0 as an initiative for tokenised corporate bonds.",
+    "id":  1150
+},
+{
+    "question":  "What does SDK stand for in Aadhaar Face Authentication SDK?",
+    "options":  [
+                    "Secure Data Key",
+                    "Software Development Kit",
+                    "System Design Kernel",
+                    "Service Delivery Knowledge",
+                    "Security Device Kit"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "SDK means Software Development Kit.",
+    "id":  1151
+},
+{
+    "question":  "Which Singapore-based company partnered with NIPL for UPI QR acceptance?",
+    "options":  [
+                    "GrabPay",
+                    "FOMO Pay",
+                    "Wise",
+                    "PayNow",
+                    "DBS PayLah"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "NPCI International Payments Limited partnered with Singapore’s FOMO Pay.",
+    "id":  1152
+},
+{
+    "question":  "Which country is PhonePe entering for its first international local operations?",
+    "options":  [
+                    "Singapore",
+                    "UAE",
+                    "Nepal",
+                    "Sri Lanka",
+                    "Malaysia"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF reports PhonePe’s entry into the UAE.",
+    "id":  1153
+},
+{
+    "question":  "What was the revised EPFO wage ceiling mentioned in the magazine?",
+    "options":  [
+                    "■15,000",
+                    "■18,000",
+                    "■20,000",
+                    "■25,000",
+                    "■30,000"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The Cabinet was reported to have raised the ceiling from ■15,000 to ■25,000.",
+    "id":  1154
+},
+{
+    "question":  "What employee contribution rate is highlighted with the revised EPFO wage ceiling?",
+    "options":  [
+                    "8%",
+                    "10%",
+                    "12%",
+                    "14%",
+                    "15%"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The revision notes say 12%, with a minimum of ■3,000 mandatory.",
+    "id":  1155
+},
+{
+    "question":  "Which three themes were highlighted for the 7th Global Fintech Fest 2026?",
+    "options":  [
+                    "AI, blockchain, cloud",
+                    "Agentic AI, tokenisation, quantum",
+                    "UPI, Aadhaar, DBT",
+                    "Cybersecurity, drones, robotics",
+                    "Green finance, ESG, carbon markets"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF highlights Agentic AI, Tokenisation and Quantum.",
+    "id":  1156
+},
+{
+    "question":  "From which country were Bank of Maharashtra’s automated lockers imported?",
+    "options":  [
+                    "Germany",
+                    "Japan",
+                    "South Korea",
+                    "Singapore",
+                    "United States"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine states that the lockers were imported from Japan.",
+    "id":  1157
+},
+{
+    "question":  "How much liquidity did RBI seek to absorb through VRRR operations for 7 September 2026?",
+    "options":  [
+                    "■1 lakh crore",
+                    "■3 lakh crore",
+                    "■5 lakh crore",
+                    "■7 lakh crore",
+                    "■10 lakh crore"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine notes VRRR operations of ■7 lakh crore.",
+    "id":  1158
+},
+{
+    "question":  "Which organisation recognised United FinTech Forum as India’s second fintech SRO?",
+    "options":  [
+                    "SEBI",
+                    "RBI",
+                    "NPCI",
+                    "PFRDA",
+                    "IRDAI"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The RBI recognised United FinTech Forum as the second fintech Self-Regulatory Organisation.",
+    "id":  1159
+},
+{
+    "question":  "Which bank launched “Bharat Connect for Business”?",
+    "options":  [
+                    "Bank of Baroda",
+                    "Central Bank of India",
+                    "Axis Bank",
+                    "Bank of Maharashtra",
+                    "UCO Bank"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF attributes Bharat Connect for Business to Central Bank of India.",
+    "id":  1160
+},
+{
+    "question":  "Which bank launched “ARISE Homecoming”?",
+    "options":  [
+                    "Axis Bank",
+                    "HDFC Bank",
+                    "ICICI Bank",
+                    "SBI",
+                    "Bank of Baroda"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists ARISE Homecoming as an Axis Bank initiative. Awards, Sports \u0026 Culture",
+    "id":  1161
+},
+{
+    "question":  "Who received the 56th Dadasaheb Phalke Award for 2024?",
+    "options":  [
+                    "Dr. Rajkumar",
+                    "Anant Nag",
+                    "Kishor Makwana",
+                    "Santosh Davakhar",
+                    "Lallianzuala Chhangte"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine reports Anant Nag as the 2024 awardee, announced in September 2026.",
+    "id":  1162
+},
+{
+    "question":  "At which ceremony was Anant Nag’s Dadasaheb Phalke Award to be presented?",
+    "options":  [
+                    "70th National Film Awards",
+                    "71st National Film Awards",
+                    "72nd National Film Awards",
+                    "73rd National Film Awards",
+                    "74th National Film Awards"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives the 72nd National Film Awards ceremony.",
+    "id":  1163
+},
+{
+    "question":  "Who won Miss World 2026 according to the magazine?",
+    "options":  [
+                    "Manushi Chhillar",
+                    "Joheirry Mola Dominguez",
+                    "Karolina Bielawska",
+                    "Krystyna Pyszková",
+                    "Opal Suchata"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine names Joheirry Mola Dominguez of the Dominican Republic.",
+    "id":  1164
+},
+{
+    "question":  "Who received the Dr. APJ Abdul Kalam Jan Seva Puraskar 2026?",
+    "options":  [
+                    "Kishor Makwana",
+                    "Anant Nag",
+                    "Sethuraman Panchanathan",
+                    "Michael Kremer",
+                    "Rajat Sharma"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF names Kishor Makwana.",
+    "id":  1165
+},
+{
+    "question":  "Who was named Indian Footballer/Player of the Year in the FPAI Indian Football Awards 2026?",
+    "options":  [
+                    "Manisha Kalyan",
+                    "Lallianzuala Chhangte",
+                    "Sunil Chhetri",
+                    "Gurpreet Singh Sandhu",
+                    "Sandesh Jhingan"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine names Lallianzuala Chhangte; Manisha Kalyan was named the women’s player of the year.",
+    "id":  1166
+},
+{
+    "question":  "Who became the highest run-scorer in women’s international cricket according to the PDF?",
+    "options":  [
+                    "Mithali Raj",
+                    "Harmanpreet Kaur",
+                    "Smriti Mandhana",
+                    "Suzie Bates",
+                    "Meg Lanning"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Smriti Mandhana is listed with 10,891 runs, ahead of Mithali Raj’s 10,868.",
+    "id":  1167
+},
+{
+    "question":  "How many international runs did Smriti Mandhana have in the magazine’s ranking?",
+    "options":  [
+                    "10,740",
+                    "10,868",
+                    "10,891",
+                    "11,000",
+                    "11,500"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives 10,891 runs in 305 innings.",
+    "id":  1168
+},
+{
+    "question":  "Who won the men’s singles title at the US Open 2026 according to the magazine?",
+    "options":  [
+                    "Ben Shelton",
+                    "Alexander Zverev",
+                    "Novak Djokovic",
+                    "Carlos Alcaraz",
+                    "Jannik Sinner"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Alexander Zverev is listed as champion, with Ben Shelton as runner-up.",
+    "id":  1169
+},
+{
+    "question":  "Who won the women’s singles title at the US Open 2026 according to the PDF?",
+    "options":  [
+                    "Aryna Sabalenka",
+                    "Elena Rybakina",
+                    "Iga ■wi■tek",
+                    "Coco Gauff",
+                    "Jessica Pegula"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Elena Rybakina is listed as champion and Aryna Sabalenka as runner-up.",
+    "id":  1170
+},
+{
+    "question":  "Which country does Alexander Zverev represent?",
+    "options":  [
+                    "USA",
+                    "Germany",
+                    "Spain",
+                    "Serbia",
+                    "Russia"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF identifies Zverev as Germany’s champion.",
+    "id":  1171
+},
+{
+    "question":  "Where will the inaugural ICC Women’s Champions Trophy 2027 be hosted?",
+    "options":  [
+                    "Sri Lanka",
+                    "India",
+                    "Australia",
+                    "England",
+                    "South Africa"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine says the tournament was shifted from Sri Lanka to India.",
+    "id":  1172
+},
+{
+    "question":  "Which team won the Women’s Asia Cup 2026?",
+    "options":  [
+                    "Sri Lanka",
+                    "Pakistan",
+                    "India",
+                    "Bangladesh",
+                    "Thailand"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "India defeated Sri Lanka to become champions, securing its eighth title.",
+    "id":  1173
+},
+{
+    "question":  "Which zone won the Duleep Trophy 2026–27?",
+    "options":  [
+                    "North Zone",
+                    "South Zone",
+                    "East Zone",
+                    "West Zone",
+                    "Central Zone"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "East Zone won its third Duleep Trophy title; South Zone was runner-up.",
+    "id":  1174
+},
+{
+    "question":  "Which tennis legend was inducted into the International Tennis Hall of Fame Class of 2026?",
+    "options":  [
+                    "Rafael Nadal",
+                    "Roger Federer",
+                    "Novak Djokovic",
+                    "Andy Murray",
+                    "Pete Sampras"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine reports Roger Federer’s induction.",
+    "id":  1175
+},
+{
+    "question":  "Which two Indian players does the PDF list as members of the International Tennis Hall of Fame?",
+    "options":  [
+                    "Sania Mirza and Mahesh Bhupathi",
+                    "Leander Paes and Vijay Amritraj",
+                    "Rohan Bopanna and Leander Paes",
+                    "Vijay Amritraj and Ramanathan Krishnan",
+                    "Sania Mirza and Vijay Amritraj"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives Leander Paes and Vijay Amritraj among the 272 total players.",
+    "id":  1176
+},
+{
+    "question":  "How many Ballon d’Or awards has Lionel Messi won, according to the magazine?",
+    "options":  [
+                    "Five",
+                    "Six",
+                    "Seven",
+                    "Eight",
+                    "Nine"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF describes Messi as an eight-time Ballon d’Or winner.",
+    "id":  1177
+},
+{
+    "question":  "Which country won the women’s kabaddi gold medal at the 2026 Asian Games?",
+    "options":  [
+                    "Iran",
+                    "China",
+                    "India",
+                    "Japan",
+                    "South Korea"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "India defeated Iran 37–33 for the gold medal.",
+    "id":  1178
+},
+{
+    "question":  "What was the mascot of the 2026 Asian Games?",
+    "options":  [
+                    "Miraitowa",
+                    "HONOHON",
+                    "Wenlock",
+                    "Sukki",
+                    "Aichi"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The mascot was HONOHON, inspired by the fiery passion of athletes and the Shachihoko symbol.",
+    "id":  1179
+},
+{
+    "question":  "What was the slogan of the 2026 Asian Games?",
+    "options":  [
+                    "One World, One Dream",
+                    "Imagine One Asia",
+                    "Ever Onward",
+                    "Energy of Asia",
+                    "Together for Tomorrow"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The official slogan was “IMAGINE ONE ASIA”.",
+    "id":  1180
+},
+{
+    "question":  "Which city/region hosted the 2026 Asian Games?",
+    "options":  [
+                    "Tokyo",
+                    "Osaka",
+                    "Aichi-Nagoya",
+                    "Kyoto",
+                    "Sapporo"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The 20th Asian Games were hosted in Aichi-Nagoya, Japan.",
+    "id":  1181
+},
+{
+    "question":  "Who were India’s flag-bearers at the 2026 Asian Games opening ceremony according to the PDF?",
+    "options":  [
+                    "Neeraj Chopra and P. V. Sindhu",
+                    "Pawan Sehrawat and Manu Bhaker",
+                    "Tajinderpal Singh Toor and Manu Bhaker",
+                    "Rohit Sharma and Manu Bhaker",
+                    "Pawan Sehrawat and Mirabai Chanu"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Pawan Sehrawat replaced the originally selected Tajinderpal Singh Toor; Manu Bhaker remained the female flag-bearer.",
+    "id":  1182
+},
+{
+    "question":  "Which sport made its Asian Games debut in 2026 according to the magazine?",
+    "options":  [
+                    "Squash",
+                    "Mixed Martial Arts",
+                    "Cricket",
+                    "Kabaddi",
+                    "Esports"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Mixed Martial Arts (MMA) appeared at the Asian Games for the first time in 2026.",
+    "id":  1183
+},
+{
+    "question":  "How many sports were listed for the 2026 Asian Games?",
+    "options":  [
+                    "35",
+                    "40",
+                    "43",
+                    "45",
+                    "50"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists 43 sports.",
+    "id":  1184
+},
+{
+    "question":  "Which Marathi film was selected as India’s official entry for the Best International Feature Film category at the 99th Academy Awards?",
+    "options":  [
+                    "Court",
+                    "Shwaas",
+                    "Gondhal",
+                    "Sairat",
+                    "Harishchandrachi Factory"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Gondhal, directed by Santosh Davakhar, was selected according to the magazine.",
+    "id":  1185
+},
+{
+    "question":  "Who directed the film Gondhal?",
+    "options":  [
+                    "Nagraj Manjule",
+                    "Santosh Davakhar",
+                    "Chaitanya Tamhane",
+                    "Paresh Mokashi",
+                    "Umesh Kulkarni"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF names Santosh Davakhar as director. Defence, Appointments, Reports \u0026 Important Days",
+    "id":  1186
+},
+{
+    "question":  "Exercise Veer Guardian 2026 was conducted between India and which country?",
+    "options":  [
+                    "USA",
+                    "Japan",
+                    "Malaysia",
+                    "Mongolia",
+                    "Sri Lanka"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The bilateral exercise was between India and Japan.",
+    "id":  1187
+},
+{
+    "question":  "Which edition of Exercise Veer Guardian was held in 2026?",
+    "options":  [
+                    "First",
+                    "Second",
+                    "Fourth",
+                    "Fifth",
+                    "Tenth"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF identifies it as the second edition.",
+    "id":  1188
+},
+{
+    "question":  "Exercise Yudh Abhyas is conducted between India and which country?",
+    "options":  [
+                    "Japan",
+                    "USA",
+                    "France",
+                    "Australia",
+                    "Nepal"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Yudh Abhyas is the India–United States exercise.",
+    "id":  1189
+},
+{
+    "question":  "Exercise Samudra Laksamana is conducted between India and which country?",
+    "options":  [
+                    "Indonesia",
+                    "Malaysia",
+                    "Thailand",
+                    "Singapore",
+                    "Maldives"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The fourth edition was held between India and Malaysia.",
+    "id":  1190
+},
+{
+    "question":  "Which countries participated in the Colombo Security Conclave Table Top Exercise 2026, as listed in the PDF?",
+    "options":  [
+                    "India, Sri Lanka, Maldives, Mauritius, Bangladesh and Seychelles",
+                    "India, Nepal, Bhutan, Bangladesh and Myanmar",
+                    "India, Japan, USA, Australia and France",
+                    "India, Malaysia, Indonesia, Thailand and Singapore",
+                    "India, Pakistan, China, Nepal and Bhutan"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists six participants: India, Sri Lanka, Maldives, Mauritius, Bangladesh and Seychelles.",
+    "id":  1191
+},
+{
+    "question":  "Who was appointed Executive Director of RBI with effect from 1 September 2026?",
+    "options":  [
+                    "Suman Ray",
+                    "Carol Kripanayana Furtado",
+                    "Yuko Keicho",
+                    "Rajendra Kumar Saboo",
+                    "Michael Kremer"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Suman Ray was appointed RBI Executive Director and oversees DICGC and the Premises Department.",
+    "id":  1192
+},
+{
+    "question":  "Who became Interim MD and CEO of Ujjivan Small Finance Bank?",
+    "options":  [
+                    "Suman Ray",
+                    "Carol Kripanayana Furtado",
+                    "Yuko Keicho",
+                    "Sashidhar Jagdishan",
+                    "Rajendra Kumar Saboo"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "She succeeded Sanjeev Nautiyal for an interim period, subject to the regular appointment.",
+    "id":  1193
+},
+{
+    "question":  "Who was appointed Vice President and Auditor General of the World Bank Group?",
+    "options":  [
+                    "Yuko Keicho",
+                    "Giorgia Meloni",
+                    "Joheirry Mola Dominguez",
+                    "Manisha Kalyan",
+                    "Carol Furtado"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF reports Yuko Keicho’s appointment.",
+    "id":  1194
+},
+{
+    "question":  "Who became the new King of Norway according to the magazine?",
+    "options":  [
+                    "King Harald V",
+                    "Crown Prince Haakon",
+                    "Prince Sverre Magnus",
+                    "King Carl XVI Gustaf",
+                    "Prince William"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine reports Crown Prince Haakon becoming the new King of Norway.",
+    "id":  1195
+},
+{
+    "question":  "Who was named brand ambassador of Vodafone Idea?",
+    "options":  [
+                    "Amitabh Bachchan",
+                    "Shah Rukh Khan",
+                    "Ranveer Singh",
+                    "Virat Kohli",
+                    "Akshay Kumar"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists Shah Rukh Khan as Vodafone Idea’s brand ambassador.",
+    "id":  1196
+},
+{
+    "question":  "Who received the top position in the Global Gender Gap Index 2026?",
+    "options":  [
+                    "Finland",
+                    "Norway",
+                    "Iceland",
+                    "Sweden",
+                    "New Zealand"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Iceland ranked first; India retained 131st rank.",
+    "id":  1197
+},
+{
+    "question":  "What was India’s rank in the Global Gender Gap Index 2026?",
+    "options":  [
+                    "101st",
+                    "121st",
+                    "131st",
+                    "141st",
+                    "151st"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF says India retained 131st rank.",
+    "id":  1198
+},
+{
+    "question":  "Which country ranked first in the WEF Travel and Tourism Development Index 2026, as listed in the magazine?",
+    "options":  [
+                    "Japan",
+                    "United States",
+                    "Spain",
+                    "Australia",
+                    "France"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists Japan, United States and Spain as the top three.",
+    "id":  1199
+},
+{
+    "question":  "Which country ranked first in the Global Business Climate Survey 2026?",
+    "options":  [
+                    "Ireland",
+                    "Vietnam",
+                    "India",
+                    "Japan",
+                    "Germany"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "India ranked first, followed by Ireland and Vietnam.",
+    "id":  1200
+},
+{
+    "question":  "Which bank ranked first in Forbes’ World’s Top Performing Banks 2026 list?",
+    "options":  [
+                    "DBS",
+                    "OCBC",
+                    "HDFC Bank",
+                    "JPMorgan Chase",
+                    "Bank of America"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "OCBC of Singapore ranked first; DBS was second and HDFC Bank third.",
+    "id":  1201
+},
+{
+    "question":  "When is Engineers’ Day celebrated in India?",
+    "options":  [
+                    "5 September",
+                    "8 September",
+                    "14 September",
+                    "15 September",
+                    "16 September"
+                ],
+    "answer":  3,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "Engineers’ Day is observed on 15 September, commemorating Sir M. Visvesvaraya.",
+    "id":  1202
+},
+{
+    "question":  "When is World Ozone Day observed?",
+    "options":  [
+                    "10 September",
+                    "15 September",
+                    "16 September",
+                    "18 September",
+                    "21 September"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "World Ozone Day is observed on 16 September.",
+    "id":  1203
+},
+{
+    "question":  "When is World Tourism Day observed?",
+    "options":  [
+                    "21 September",
+                    "27 September",
+                    "29 September",
+                    "30 September",
+                    "2 October"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "World Tourism Day is observed on 27 September.",
+    "id":  1204
+},
+{
+    "question":  "When is International Translation Day observed?",
+    "options":  [
+                    "27 September",
+                    "29 September",
+                    "30 September",
+                    "1 October",
+                    "5 October"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists International Translation Day on 30 September.",
+    "id":  1205
+},
+{
+    "question":  "Which initiative is aimed at rural pension outreach and is associated with PFRDA and Rural Development?",
+    "options":  [
+                    "Pension Sakhis",
+                    "NPS Swasthya",
+                    "Bharat Connect",
+                    "ARISE Homecoming",
+                    "Sparsh Week"
+                ],
+    "answer":  0,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The Pension Sakhis initiative is described as rural pension outreach.",
+    "id":  1206
+},
+{
+    "question":  "Which organisation issued operational guidelines for NPS Swasthya?",
+    "options":  [
+                    "RBI",
+                    "PFRDA",
+                    "SEBI",
+                    "UIDAI",
+                    "NPCI"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "PFRDA issued the operational guidelines.",
+    "id":  1207
+},
+{
+    "question":  "What was the theme of the 9th India International Water Week 2026?",
+    "options":  [
+                    "Water for All",
+                    "Climate Resilient Water Management",
+                    "Clean Rivers, Green Future",
+                    "Water Security for Growth",
+                    "Smart Water, Smart Cities"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF gives the theme as “Climate Resilient Water Management”.",
+    "id":  1208
+},
+{
+    "question":  "Which country contributed the name “Cyclone Arnab” to the North Indian Ocean naming sequence?",
+    "options":  [
+                    "India",
+                    "Bangladesh",
+                    "Sri Lanka",
+                    "Thailand",
+                    "Myanmar"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF says Bangladesh contributed the name Arnab.",
+    "id":  1209
+},
+{
+    "question":  "What does IFSC contain?",
+    "options":  [
+                    "9 digits",
+                    "11 alphanumeric characters",
+                    "12 digits",
+                    "14 digits",
+                    "20 characters"
+                ],
+    "answer":  1,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The IFSC code has 11 alphanumeric characters.",
+    "id":  1210
+},
+{
+    "question":  "How many digits are in a MICR code?",
+    "options":  [
+                    "6",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists MICR as a 9-digit code.",
+    "id":  1211
+},
+{
+    "question":  "How many characters are in a basic SWIFT/BIC code?",
+    "options":  [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "12"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "A basic BIC has 8 characters; an optional three-character branch identifier makes it 11.",
+    "id":  1212
+},
+{
+    "question":  "How many digits are in an Aadhaar Virtual ID (VID)?",
+    "options":  [
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "20"
+                ],
+    "answer":  2,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The magazine lists Aadhaar VID as 16 digits.",
+    "id":  1213
+},
+{
+    "question":  "How many characters are in a NACH Mandate UMRN?",
+    "options":  [
+                    "12",
+                    "14",
+                    "16",
+                    "18",
+                    "20"
+                ],
+    "answer":  4,
+    "category":  "September 2026 Current Affairs",
+    "source":  "pasted",
+    "explanation":  "The PDF lists the NACH mandate UMRN as 20 characters.",
+    "id":  1214
+}
 ];
